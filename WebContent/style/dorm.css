@@ -1,0 +1,107 @@
+.data_list {
+	border: 1px solid #E5E5E5;
+	padding: 10px;
+	background-color: #FDFDFD;
+}
+
+.data_list .data_list_title{
+	font-size: 15px;
+	font-weight: bold;
+	border-bottom: 1px solid #E5E5E5;
+	padding-bottom: 10px;
+	padding-top: 5px;
+}
+
+.data_list .data_list_title img{
+	vertical-align: top;
+}
+
+.data_list .diary_datas{
+	padding: 5px;
+}
+
+.data_list .diary_datas ul{
+	list-style-type: none;
+}
+
+.data_list .diary_datas ul li{
+	margin-top: 5px;
+}
+
+.data_list .datas{
+	padding: 5px;
+}
+
+.data_list .datas ul {
+	list-style-type: none;
+}
+
+.data_list .datas ul li {
+	margin-top: 5px;
+}
+
+.data_list .user_image{
+	text-align: center;
+}
+
+.data_list .user_image img{
+	padding-top:10px;
+	width: 200px;;
+	height: 250px;;
+}
+
+.data_list .nickName , .data_list .userSign{
+	text-align: center;
+}
+
+.data_list .diary_title{
+	margin-top:20px;
+	text-align: center;
+}
+
+.data_list .diary_info{
+	text-align: center;
+}
+
+.data_list .diary_content{
+	margin-top:20px;
+}
+
+.data_list .diary_action{
+	margin-top:20px;
+}
+
+.data_list .diary_type{
+	margin-top:10px;
+}
+
+.data_list .diary_title{
+	margin-top:20px;
+	text-align: center;
+}
+
+.data_list .data_list_title .dormBuild_add{
+	float: right;
+	margin-right: 20px;
+}
+
+.data_list .data_form{
+	margin-top:20px;
+}
+
+.form-search{
+	margin-top:5px;
+	margin-bottom: 5px;
+}
+
+.data_search{
+	float:right;
+}
+
+.select_form {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.data_select {
+	float: right;
