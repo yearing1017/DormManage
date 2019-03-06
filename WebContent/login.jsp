@@ -152,7 +152,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;
         <button class="btn btn-large btn-primary" type="button" >重置</button>
 
-		<p align="center" style="padding-top: 15px;">版权所有  2017  artisan  <a href="http://blog.csdn.net/llqqxf" target="_blank">http://blog.csdn.net/llqqxf</a></p>
+		<p align="center" style="padding-top: 15px;">版权所有  2018  yearing1017  </p>
       </form>
 </div>
 </body>
